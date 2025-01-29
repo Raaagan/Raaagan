@@ -1,10 +1,9 @@
 ###
 
-<h1 align="center">About me</h1>
+<h1 align="center">Hi! I'm Ragan Coleman.</h1>
 
 ###
 
-<h2 align="left">Hi! I'm Ragan Coleman.<h2>
  <p align="left">An aspiring Full-Stack Developer</p>
 <p align="left">✨ Creating bugs since 2020</p>
 
