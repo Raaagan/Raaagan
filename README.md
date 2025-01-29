@@ -14,6 +14,9 @@
 ###
 
 <h3>⚡️ Where to find me</h3>
+
+###
+
  <div align="left">
   <a href="https://codepen.io/raaaagan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
@@ -85,7 +88,8 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raaagan)](https://github.com/raaagan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raaagan&theme=discord)](https://github.com/raaagan/github-profile-trophy)
+
 
 
 ###
