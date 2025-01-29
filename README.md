@@ -18,6 +18,7 @@
   <a href="https://codepen.io/raaaagan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
   </a> </div>
+  
 ###
 
 <h4 align="center">I code with</h4>
@@ -82,6 +83,9 @@
 
 ###
 
-<p1 align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p1>
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raaagan)](https://github.com/raaagan/github-profile-trophy)
+
 
 ###
