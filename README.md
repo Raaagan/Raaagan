@@ -16,6 +16,10 @@
   
 ###
 
+###
+
+###
+
 <h4 align="center">I code with</h4>
 
 ###
@@ -75,6 +79,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
+
+###
 
 ###
 
