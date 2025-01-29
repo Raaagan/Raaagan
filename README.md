@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/raaagan/raaagan/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">My name is Ragan Coleman and I'm an aspiring Full-Stack Developer.</p>
+<h1>Hi! I'm Ragan Coleman.</h1>
+<p>An aspiring Full-Stack Developer</p>
 
 ###
 
@@ -14,11 +15,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="codepen logo"  />
-</div>
-
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.codepen.io/raaaagan" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a></p>
 ###
 
 <h2 align="center">I code with</h2>
@@ -80,5 +78,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raaagan&show_icons=true&locale=en" alt="raaagan" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p>
 
 ###
