@@ -4,12 +4,12 @@
 
 ###
 
- <p align="left">An aspiring Full-Stack Developer</p>
-<p align="left">✨ Creating bugs since 2020</p>
+ <p align="center">An aspiring Full-Stack Developer</p>
+<p align="center">✨ Creating bugs since 2020</p>
 
 ###
 
-<h3>⚡️ Where to find me : </h3> <div>
+<h3 align="center">⚡️ Where to find me : </h3> <div align="center">
   <a href="https://codepen.io/raaaagan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
   </a> </div>
