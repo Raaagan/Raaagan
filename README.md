@@ -1,9 +1,11 @@
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="center">About me</h1>
+
+###
 
 <h2 align="left">Hi! I'm Ragan Coleman.<h2>
-<p align="left">An aspiring Full-Stack Developer</p>
+ <p align="left">An aspiring Full-Stack Developer</p>
 
 ###
 
@@ -12,7 +14,7 @@
 ###
 
 <h3>⚡️ Where to find me</h3>
-<div align="left">
+ <div align="left">
   <a href="https://codepen.io/raaaagan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
   </a> </div>
