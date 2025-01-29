@@ -14,7 +14,14 @@
 ###
 
 <h3>⚡️ Where to find me</h3>
-<p><a target="_blank" href="https://www.codepen.io/raaaagan" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a></p>
+<div align="center">
+  <a href="https://codepen.io/raaaagan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/raganwhite" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
