@@ -1,11 +1,9 @@
 ###
 
-<h1 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
-###
-
-<h2>Hi! I'm Ragan Coleman.</h2>
-<p>An aspiring Full-Stack Developer</p>
+<h2 align="left">Hi! I'm Ragan Coleman.<h2>
+<p align="left">An aspiring Full-Stack Developer</p>
 
 ###
 
@@ -24,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -79,6 +77,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
-<p1><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p1>
+
+###
+
+<p1 align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p1>
 
 ###
