@@ -1,12 +1,10 @@
+###
 
+<h1 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<h1>Hi! I'm Ragan Coleman.</h1>
+<h2>Hi! I'm Ragan Coleman.</h2>
 <p>An aspiring Full-Stack Developer</p>
 
 ###
@@ -15,11 +13,12 @@
 
 ###
 
-<h2>⚡️ Where to find me</h2>
+<h3>⚡️ Where to find me</h3>
 <p><a target="_blank" href="https://www.codepen.io/raaaagan" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a></p>
+
 ###
 
-<h2 align="center">I code with</h2>
+<h4 align="center">I code with</h4>
 
 ###
 
@@ -79,6 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raaagan&show_icons=true&locale=en" alt="raaagan" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p>
+<p1><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p1>
 
 ###
