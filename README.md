@@ -17,12 +17,7 @@
 <div align="left">
   <a href="https://codepen.io/raaaagan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/raganwhite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
-  </a>
-</div>
-
+  </a> </div>
 ###
 
 <h4 align="center">I code with</h4>
@@ -84,7 +79,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=raaagan&show_icons=true&locale=en" alt="raaagan" /></p>
 <p1><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p1>
 
 ###
