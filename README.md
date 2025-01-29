@@ -86,6 +86,13 @@
 
 ###
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raaagan&count_private=true&theme=tokyonight&showicons=true)]()
+
+###
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raaagan&langs_count=5&theme=tokyonight)]()
+
+
 ##
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raaagan&theme=discord)](https://github.com/raaagan/github-profile-trophy)
