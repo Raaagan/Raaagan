@@ -14,7 +14,7 @@
 ###
 
 <h3>⚡️ Where to find me</h3>
-<div align="center">
+<div align="left">
   <a href="https://codepen.io/raaaagan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="20" alt="codepen logo"  />
   </a>
@@ -84,7 +84,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raaagan&show_icons=true&locale=en" alt="raaagan" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=raaagan&show_icons=true&locale=en" alt="raaagan" /></p>
 <p1><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaagan" alt="raaagan" /></a></p1>
 
 ###
